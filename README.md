@@ -2,4 +2,4 @@
 
 ## App simulating Whispers - Anonymous Posting
 
-Created using HTML, CSS, JavaScript (NodeJS, ExpressJS, EJS, Body-Parser) and MongoDB (Mongoose, Mongoose-Encryption)
+Created using HTML, CSS, JavaScript (NodeJS, ExpressJS, EJS, Body-Parser) and MongoDB (Mongoose)
